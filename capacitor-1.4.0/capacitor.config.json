@@ -1,0 +1,8 @@
+{
+  "appId": "io.ionic.starter",
+  "appName": "MyOldApp",
+  "bundledWebRuntime": false,
+  "npmClient": "npm",
+  "webDir": "www",
+  "cordova": {}
+}
